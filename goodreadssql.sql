@@ -1,7 +1,6 @@
 
 /*Tables*/
 
-/*Was getting an error before but this helps drop any tables that can exist with these names and remove the error*/
 DROP TABLE IF EXISTS ratings_summary;
 DROP TABLE IF EXISTS listofbooks;
 

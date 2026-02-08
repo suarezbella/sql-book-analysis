@@ -1,0 +1,11 @@
+#Ignore macOS system files
+.DS_Store
+
+#ignores temporary files i don't want in github
+*.log
+*.tmp 
+*.swp
+
+#ignores python filest if i add any
+__pycache__/
+*.pyc
